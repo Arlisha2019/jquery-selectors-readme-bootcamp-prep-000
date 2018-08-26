@@ -1,4 +1,4 @@
 function paragraphSelector() {
-  var p = document.getElementsByTagsName('p');
+  const p = document.getElementByTagName('p');
   return p; 
 }
